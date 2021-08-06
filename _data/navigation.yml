@@ -1,0 +1,13 @@
+header:
+  - titles:
+      ko:       Home
+      en:       Home
+    url:        /
+  - titles:
+      ko:       Archive
+      en:       Archive
+    url:        /archive.html
+  - titles:
+      ko:       About
+      en:       About
+    url:        /about.html
