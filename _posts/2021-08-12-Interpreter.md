@@ -1,5 +1,5 @@
 ---
-title: Flyweight(플라이웨이트) 패턴
+title: Interpreter 패턴
 tags:
   - 디자인패턴
   - 행위패턴
