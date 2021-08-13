@@ -1,8 +1,8 @@
 ---
-title: Facade 패턴
+title: Template Method 패턴
 tags:
   - 디자인패턴
-  - 구조패턴
+  - 행위패턴
 ---
 
 > 작성자 : 김동섭
