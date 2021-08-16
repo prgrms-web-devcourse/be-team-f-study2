@@ -1,5 +1,5 @@
 ---
-title: Prototype Pattern
+title: Prototype 패턴
 tags:
   - 디자인패턴
   - 생성패턴
