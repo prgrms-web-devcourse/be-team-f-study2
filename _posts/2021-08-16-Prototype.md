@@ -46,7 +46,7 @@ clone() 메소드를 선언하는 추상 베이스 클래스를 하나 만들고
 
 Prototype
 
-```
+```java
 public class Coffee implements Cloneable{
     private String name;
 
@@ -82,7 +82,7 @@ public class Coffee implements Cloneable{
 
 ConcretePrototype
 
-```
+```java
 public class CoconutCoffee extends Coffee{
     public CoconutCoffee() {
     }
@@ -91,7 +91,7 @@ public class CoconutCoffee extends Coffee{
 
 Client
 
-```
+```java
 public class CoffeeMachine {
     private Coffee coffee;
 
@@ -107,7 +107,7 @@ public class CoffeeMachine {
 }
 ```
 
-```
+```java
 public class Main {
     public static void main(String[] args) {
         Coffee coffee = null;
